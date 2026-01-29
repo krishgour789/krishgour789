@@ -2,19 +2,21 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Krish+Gour....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Krish+Gour;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/krish-gour-03416b533/" title="LinkedIn Profile">
-      <img width="22" src="images/linkedin.svg"> LinkedIn
+    <a href="https://www.linkedin.com/in/krish-gour-03416b533/">
+      <img height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+      LinkedIn
     </a>
   </code>
   <code>
-    <a href="https://www.instagram.com/_krishgour_789/" title="Instagram Profile">
-      <img width="22" src="images/instagram.svg"> Instagram
+    <a href="https://www.instagram.com/_krishgour_789/">
+      <img height="22" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
+      Instagram
     </a>
   </code>
 </h5>
@@ -24,15 +26,15 @@
 <p align="center">
   Hi, I'm <b>Krish Gour</b>, a Computer Engineering student & aspiring Software Developer from India 🇮🇳
   <br><br>
-  🎓 I'm currently studying at <b>Sri Satya Sai University of Technology & Medical Science, Sehore (M.P)</b>
+  🎓 Studying at <b>Sri Satya Sai University of Technology & Medical Science, Sehore (M.P)</b>
   <br>
-  🏫 I completed my schooling from <b>Maruti Nandan Academy High School</b>
+  🏫 Schooling from <b>Maruti Nandan Academy High School</b>
   <br>
-  💻 I love writing code and learning new technologies
+  💻 Passionate about coding & problem solving
   <br>
-  📚 Currently learning <b>Data Science, AI & Full-Stack Python (Django)</b>
+  🌱 Learning <b>Data Science, AI & Full-Stack Python (Django)</b>
   <br>
-  💬 Ask me anything from <a href="https://github.com/krishgour789?tab=repositories">Here</a>
+  💬 Ask me anything from <a href="https://github.com/krishgour789?tab=repositories">here</a>
   <br>
   📫 Reach me at: <a href="mailto:krishgour789@gmail.com">krishgour789@gmail.com</a>
 </p>
@@ -42,19 +44,19 @@
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 
 <p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
+  <img title="C++" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img title="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img title="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img title="Django" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img title="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img title="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img title="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img title="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img title="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img title="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img title="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img title="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img title="VS Code" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
 
 <hr>
@@ -75,6 +77,7 @@
 <hr>
 
 <h4 align="center">
-  <a href="https://github.com/krishgour789?tab=repositories">🔎 Show My Repositories 🔍</a>
+  <a href="https://github.com/krishgour789?tab=repositories">🔎 View My Repositories 🔍</a>
 </h4>
+
 
